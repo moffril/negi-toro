@@ -1,0 +1,2 @@
+<p>わたしのいぬをみて</p>
+<img src="<%= asset_path "DSCF1038.jpg" %>" style="width:500px" />

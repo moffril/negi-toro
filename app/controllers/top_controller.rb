@@ -3,4 +3,6 @@ class TopController < ApplicationController
   end
   def negitoro
   end
+  def napo
+  end
 end
